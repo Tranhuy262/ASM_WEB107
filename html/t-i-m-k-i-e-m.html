@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="../css/global.css" />
+    <link rel="stylesheet" href="../css/t-i-m-k-i-e-m.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jaldi:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Kenia:wght@400&display=swap"
+    />
+
+    <style>
+      @font-face {
+        font-family: "iCiel Altus Serif";
+        src: url("./public/BebasKai-Regular.otf");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "iCiel Crocante";
+        src: url("./public/BebasKai-Regular.otf");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "iCiel Finch";
+        src: url("./public/BebasKai-Regular.otf");
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: "iCiel La Chic Pro";
+        src: url("./public/Metropolis-Light.otf");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "Isadora";
+        src: url("./public/BebasKai-Regular.otf");
+        font-weight: 400;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="tim-kiem">
+      <div class="rectangle-parent8">
+        <div class="group-child92"></div>
+        <img class="rectangle-icon" alt="" src="../public/rectangle-47@2x.png" />
+      </div>
+      <div class="line-group">
+        <div class="group-child93"></div>
+        <div class="group-child94"></div>
+        <div class="group-child95"></div>
+        <i class="recent-searches">Recent Searches</i>
+        <i class="popular">Popular</i>
+      </div>
+      <div class="rectangle-parent9">
+        <div class="group-child96"></div>
+        <a href="../index.html">
+          <img
+          class="image-2-icon6"
+          alt=""
+          src="../public/image-2@2x.png"
+          id="image2"
+        />
+        </a>
+        <div class="group-child97"></div>
+        <img class="image-3-icon6" alt="" src="../public/timkiemm.png" />
+
+        <i class="apparel8" id="aPPARELText">APPAREL</i>
+        <i class="shoes8">SHOES</i>
+        <i class="hat6">HAT</i>
+        <i class="bagacc6">BAG&ACC</i>
+        <img
+          class="image-58-icon4"
+          alt=""
+          src="../public/image-58@2x.png"
+          id="image58Icon"
+        />
+
+        <i class="launches4">LAUNCHES</i>
+        <i class="promotion4">PROMOTION</i>
+        <i class="library4">LIBRARY</i>
+        <img
+          class="image-5-icon6"
+          alt=""
+          src="../public/giohangg.png"
+          id="image5Icon"
+        />
+      </div>
+    </div>
+
+    <div id="dANGNHAPContainer" class="popup-overlay" style="display: none">
+      <div class="dang-nhap1">
+        <div class="account-parent">
+          <i class="account2">ACCOUNT</i>
+          <div class="group-child214"></div>
+        </div>
+        <div class="rectangle-parent19">
+          <div class="group-child215"></div>
+          <div class="user-name2">User Name</div>
+          <div class="group-child216"></div>
+          <div class="group-child217"></div>
+          <div class="log-in1">LOG IN</div>
+          <div class="group-child218"></div>
+          <div class="group-child219"></div>
+          <div class="password2">Password</div>
+          <div class="save2">Save</div>
+          <div class="do-not-have1">Do not have an account ?</div>
+          <b class="create-account1">
+            <span>Create</span>
+            <span class="span"> </span>
+            <span>Account</span>
+          </b>
+          <div class="group-child220"></div>
+          <div class="facebook2">FACEBOOK</div>
+          <div class="google2">GOOGLE</div>
+        </div>
+        <img class="image-59-icon" alt="" src="../public/image-59@2x.png" />
+      </div>
+    </div>
+
+    <script>
+      var image2 = document.getElementById("image2");
+      if (image2) {
+        image2.addEventListener("click", function (e) {
+          window.location.href = "./HOME.html";
+        });
+      }
+      
+      var aPPARELText = document.getElementById("aPPARELText");
+      if (aPPARELText) {
+        aPPARELText.addEventListener("click", function (e) {
+          window.location.href = "./m-e-n-u.html";
+        });
+      }
+      
+      var image58Icon = document.getElementById("image58Icon");
+      if (image58Icon) {
+        image58Icon.addEventListener("click", function () {
+          var popup = document.getElementById("dANGNHAPContainer");
+          if (!popup) return;
+          var popupStyle = popup.style;
+          if (popupStyle) {
+            popupStyle.display = "flex";
+            popupStyle.zIndex = 100;
+            popupStyle.backgroundColor = "rgba(113, 113, 113, 0.3)";
+            popupStyle.alignItems = "center";
+            popupStyle.justifyContent = "center";
+          }
+          popup.setAttribute("closable", "");
+      
+          var onClick =
+            popup.onClick ||
+            function (e) {
+              if (e.target === popup && popup.hasAttribute("closable")) {
+                popupStyle.display = "none";
+              }
+            };
+          popup.addEventListener("click", onClick);
+        });
+      }
+      
+      var image5Icon = document.getElementById("image5Icon");
+      if (image5Icon) {
+        image5Icon.addEventListener("click", function (e) {
+          window.location.href = "./g-i-o-h-a-n-g.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jaldi: Jaldi;
+  --font-inria-sans: "Inria Sans";
+  --font-isadora: Isadora;
+  --font-iciel-altus-serif: "iCiel Altus Serif";
+  --font-iciel-la-chic-pro: "iCiel La Chic Pro";
+  --font-iciel-finch: "iCiel Finch";
+  --font-iciel-crocante: "iCiel Crocante";
+  --font-kenia: Kenia;
+
+  /* font sizes */
+  --font-size-16xl: 35px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-6xl: 25px;
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-61xl: 80px;
+  --font-size-mid: 17px;
+  --font-size-11xl: 30px;
+  --font-size-mini: 15px;
+  --font-size-26xl: 45px;
+  --font-size-lgi: 19px;
+  --font-size-3xl: 22px;
+  --font-size-13xl: 32px;
+  --font-size-101xl: 120px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-coral: #f36e45;
+  --color-black: #000;
+  --color-gray-100: #868686;
+  --color-gainsboro: #d9d9d9;
+  --color-whitesmoke: #f2f2f2;
+  --color-tomato: #fe5555;
+  --color-blue: #2924ff;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}

@@ -1,0 +1,434 @@
+.group-child23 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 72px;
+}
+.image-2-icon2 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 186px;
+  height: 75px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.apparel3,
+.bagacc2,
+.hat2,
+.shoes4 {
+  position: absolute;
+  top: 19px;
+  left: 214px;
+  font-weight: 900;
+}
+.bagacc2,
+.hat2,
+.shoes4 {
+  left: 675px;
+}
+.hat2,
+.shoes4 {
+  left: 405px;
+}
+.hat2 {
+  left: 560px;
+}
+.group-child24 {
+  position: absolute;
+  top: -0.5px;
+  left: 881.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 76px;
+}
+.image-3-icon2 {
+  position: absolute;
+  top: 19px;
+  left: 1282px;
+  width: 39px;
+  height: 34px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-4-icon1,
+.image-5-icon2 {
+  position: absolute;
+  top: 1px;
+  left: 1331px;
+  width: 144px;
+  height: 74px;
+  object-fit: cover;
+}
+.image-5-icon2 {
+  top: 10px;
+  left: 1329px;
+  width: 52px;
+  height: 55px;
+  cursor: pointer;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: -1px;
+  left: -2px;
+  width: 1475px;
+  height: 75px;
+}
+.tao-tai-khoan-child,
+.tao-tai-khoan-item {
+  position: absolute;
+  top: 90.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.tao-tai-khoan-item {
+  top: 215.5px;
+}
+.account1 {
+  position: absolute;
+  top: 129px;
+  left: 602px;
+  font-size: var(--font-size-26xl);
+  font-weight: 900;
+  text-align: center;
+}
+.group-child25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 640px;
+  height: 78px;
+}
+.user-name1 {
+  position: absolute;
+  top: 24px;
+  left: 29px;
+  font-weight: 200;
+  text-align: center;
+}
+.group-child26 {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 640px;
+  height: 78px;
+}
+.group-child27,
+.group-child28 {
+  position: absolute;
+  left: 1px;
+  width: 640px;
+  height: 78px;
+}
+.group-child27 {
+  top: 210px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child28 {
+  top: 390px;
+  background-color: var(--color-black);
+}
+.create {
+  position: absolute;
+  top: 411px;
+  left: 259px;
+  font-size: var(--font-size-11xl);
+  font-weight: 900;
+  color: var(--color-white);
+  text-align: center;
+}
+.group-child29,
+.group-child30 {
+  position: absolute;
+  top: 485px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 300px;
+  height: 78px;
+}
+.group-child30 {
+  left: 341px;
+  background-color: var(--color-tomato);
+}
+.enter-the-password,
+.password1,
+.save1 {
+  position: absolute;
+  top: 129px;
+  left: 29px;
+  font-weight: 200;
+}
+.enter-the-password,
+.save1 {
+  top: 233px;
+}
+.save1 {
+  top: 336px;
+  left: 40px;
+  font-size: var(--font-size-mini);
+}
+.group-child31 {
+  position: absolute;
+  top: 335px;
+  left: 1px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.facebook1,
+.google1 {
+  position: absolute;
+  top: 506px;
+  left: 66px;
+  font-size: var(--font-size-11xl);
+  font-weight: 900;
+  color: var(--color-white);
+}
+.google1 {
+  left: 417px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 368px;
+  left: 399px;
+  width: 641px;
+  height: 563px;
+  font-size: var(--font-size-6xl);
+}
+.tao-tai-khoan {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.group-child90 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 46px;
+}
+.image-2-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child91 {
+  position: absolute;
+  top: 2.5px;
+  left: 564.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 47px;
+}
+.image-3-icon5 {
+  position: absolute;
+  top: 11px;
+  left: 1325px;
+  width: 34.6px;
+  height: 32.5px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.apparel7,
+.bagacc5,
+.hat5,
+.shoes7 {
+  position: absolute;
+  top: 13px;
+  left: 158px;
+  font-weight: 900;
+}
+.bagacc5,
+.hat5,
+.shoes7 {
+  left: 265px;
+}
+.bagacc5,
+.hat5 {
+  left: 350px;
+}
+.bagacc5 {
+  left: 411px;
+}
+.image-58-icon3 {
+  position: absolute;
+  top: 10px;
+  left: 1399px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.launches3,
+.library3,
+.promotion3 {
+  position: absolute;
+  top: 13px;
+  left: 642px;
+  font-weight: 600;
+}
+.library3,
+.promotion3 {
+  left: 782px;
+}
+.library3 {
+  left: 936px;
+}
+.image-5-icon5 {
+  position: absolute;
+  top: 10px;
+  left: 1361px;
+  width: 34.1px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.menu-child,
+.rectangle-parent7 {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 1440px;
+  height: 49px;
+}
+.menu-child {
+  top: 91px;
+  height: 1440px;
+}
+.general,
+.girl-t-shirt,
+.jeans1,
+.men-t-shirt {
+  position: absolute;
+  left: 309px;
+  display: inline-block;
+}
+.general {
+  top: 0;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  width: 152px;
+  height: 44px;
+}
+.girl-t-shirt,
+.jeans1,
+.men-t-shirt {
+  top: 58px;
+  font-weight: 300;
+  width: 195px;
+  height: 37px;
+}
+.girl-t-shirt,
+.jeans1 {
+  top: 112px;
+  width: 170px;
+}
+.jeans1 {
+  top: 167px;
+  width: 94px;
+}
+.karati1 {
+  top: 221px;
+  width: 91px;
+}
+.hoodie1,
+.jacket,
+.karati1,
+.shirts1 {
+  position: absolute;
+  left: 309px;
+  font-weight: 300;
+  display: inline-block;
+  height: 37px;
+}
+.shirts1 {
+  top: 275px;
+  width: 91px;
+  cursor: pointer;
+}
+.hoodie1,
+.jacket {
+  top: 330px;
+  width: 112px;
+}
+.jacket {
+  top: 384px;
+  width: 104px;
+}
+.collection1,
+.mlb-seoul,
+.selling,
+.trend {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 113px;
+  height: 44px;
+}
+.collection1,
+.mlb-seoul,
+.selling {
+  top: 58px;
+  width: 131px;
+}
+.collection1,
+.mlb-seoul {
+  top: 116px;
+  width: 197px;
+}
+.mlb-seoul {
+  top: 174px;
+  width: 204px;
+  height: 45px;
+}
+.general-parent {
+  position: absolute;
+  top: 124px;
+  left: 74px;
+  width: 504px;
+  height: 421px;
+  font-size: var(--font-size-6xl);
+}
+.menu {
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

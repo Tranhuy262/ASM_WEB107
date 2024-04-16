@@ -1,0 +1,358 @@
+.group-child92,
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  height: 103px;
+}
+.group-child92 {
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 770px;
+}
+.rectangle-icon {
+  left: 793px;
+  width: 103px;
+  object-fit: cover;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 191px;
+  left: 335px;
+  width: 896px;
+  height: 103px;
+}
+.group-child93 {
+  top: -0.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--color-black);
+  width: 1441px;
+  height: 1px;
+}
+.group-child93,
+.group-child94,
+.group-child95 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.group-child94 {
+  top: 339.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  width: 1441px;
+  height: 1px;
+}
+.group-child95 {
+  top: 202.5px;
+  left: 719.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 933px;
+}
+.popular,
+.recent-searches {
+  position: absolute;
+  top: 288px;
+  left: 242px;
+  font-weight: 900;
+}
+.popular {
+  left: 1025px;
+}
+.group-child96,
+.line-group {
+  position: absolute;
+  top: 91px;
+  left: -2px;
+  width: 1442px;
+  height: 1135px;
+}
+.group-child96 {
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 46px;
+}
+.image-2-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child97 {
+  position: absolute;
+  top: 2.5px;
+  left: 564.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 47px;
+}
+.image-3-icon6 {
+  position: absolute;
+  top: 11px;
+  left: 1325px;
+  width: 34.6px;
+  height: 32.5px;
+  object-fit: cover;
+}
+.apparel8,
+.bagacc6,
+.hat6,
+.shoes8 {
+  position: absolute;
+  top: 13px;
+  font-weight: 900;
+}
+.apparel8 {
+  left: 158px;
+  cursor: pointer;
+}
+.bagacc6,
+.hat6,
+.shoes8 {
+  left: 265px;
+}
+.bagacc6,
+.hat6 {
+  left: 350px;
+}
+.bagacc6 {
+  left: 411px;
+}
+.image-58-icon4 {
+  position: absolute;
+  top: 10px;
+  left: 1399px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.launches4,
+.library4,
+.promotion4 {
+  position: absolute;
+  top: 13px;
+  left: 642px;
+  font-weight: 600;
+}
+.library4,
+.promotion4 {
+  left: 782px;
+}
+.library4 {
+  left: 936px;
+}
+.image-5-icon6 {
+  position: absolute;
+  top: 10px;
+  left: 1361px;
+  width: 34.1px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 49px;
+  font-size: var(--font-size-mid);
+}
+.tim-kiem {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.account2 {
+  position: absolute;
+  top: 0;
+  left: 422px;
+  font-weight: 900;
+}
+.group-child214 {
+  position: absolute;
+  top: 70.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1001px;
+  height: 1px;
+}
+.account-parent,
+.group-child215 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 1000px;
+  height: 71px;
+}
+.group-child215 {
+  top: 0;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 573.9px;
+  height: 69.9px;
+}
+.user-name2 {
+  position: absolute;
+  top: 21.5px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  text-align: center;
+  display: inline-block;
+  width: 116.6px;
+  height: 26.9px;
+}
+.group-child216,
+.group-child217 {
+  position: absolute;
+  left: 0.9px;
+  width: 573.9px;
+  height: 69.9px;
+}
+.group-child216 {
+  top: 94.2px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child217 {
+  top: 245.7px;
+  background-color: var(--color-black);
+}
+.log-in1 {
+  position: absolute;
+  top: 264.5px;
+  left: 242.1px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 89.7px;
+  height: 32.3px;
+}
+.group-child218,
+.group-child219 {
+  position: absolute;
+  top: 330.9px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 269px;
+  height: 69.9px;
+}
+.group-child219 {
+  left: 305.8px;
+  background-color: var(--color-tomato);
+}
+.password2 {
+  top: 115.7px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  width: 100.4px;
+  height: 26.9px;
+}
+.do-not-have1,
+.password2,
+.save2 {
+  position: absolute;
+  display: inline-block;
+}
+.save2 {
+  top: 197.3px;
+  left: 35.9px;
+  font-size: 12px;
+  font-weight: 200;
+  width: 30.5px;
+  height: 16.1px;
+}
+.do-not-have1 {
+  top: 430.4px;
+  left: 105.8px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 213.4px;
+  height: 21.5px;
+}
+.span {
+  font-size: var(--font-size-xl);
+}
+.create-account1 {
+  position: absolute;
+  top: 430.4px;
+  left: 333.6px;
+  display: inline-block;
+  width: 138.1px;
+  height: 21.5px;
+  font-size: var(--font-size-mini);
+}
+.group-child220 {
+  position: absolute;
+  top: 196.4px;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 17.9px;
+  height: 17.9px;
+}
+.facebook2,
+.google2 {
+  position: absolute;
+  top: 349.7px;
+  left: 59.2px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 151.5px;
+  height: 32.3px;
+}
+.google2 {
+  left: 373.9px;
+  width: 116.6px;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 132px;
+  left: 213px;
+  width: 574.8px;
+  height: 451.9px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+}
+.image-59-icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.dang-nhap1 {
+  width: 1000px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 600px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

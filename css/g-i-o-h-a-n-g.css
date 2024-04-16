@@ -1,0 +1,506 @@
+.group-child198,
+.group-child199,
+.group-child200,
+.group-child201 {
+  position: absolute;
+  top: 362.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.group-child199,
+.group-child200,
+.group-child201 {
+  top: 693.5px;
+}
+.group-child200,
+.group-child201 {
+  top: 587.5px;
+  left: 2.5px;
+}
+.group-child201 {
+  top: 477.5px;
+  left: -0.5px;
+}
+.shopping-basket {
+  position: absolute;
+  top: 38px;
+  left: 505px;
+  font-size: var(--font-size-26xl);
+  font-weight: 900;
+}
+.group-child203,
+.group-child204 {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1442px;
+  height: 112px;
+}
+.group-child204 {
+  top: 733px;
+  left: 3px;
+}
+.group-child205,
+.group-child206,
+.group-child207,
+.group-child208,
+.group-child209,
+.group-child210 {
+  position: absolute;
+  top: 134.5px;
+  left: 488.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 113px;
+}
+.group-child206,
+.group-child207,
+.group-child208,
+.group-child209,
+.group-child210 {
+  top: 308.5px;
+  left: 535.5px;
+  height: 425px;
+}
+.group-child207,
+.group-child208,
+.group-child209,
+.group-child210 {
+  left: 719.5px;
+}
+.group-child208,
+.group-child209,
+.group-child210 {
+  left: 865.5px;
+}
+.group-child209,
+.group-child210 {
+  left: 1081.5px;
+}
+.group-child210 {
+  top: 134.5px;
+  left: 954.5px;
+  height: 113px;
+}
+.order-completed,
+.shopping-basket1 {
+  position: absolute;
+  top: 173px;
+  left: 112px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+}
+.order-completed {
+  left: 1086px;
+  font-weight: 500;
+}
+.color5,
+.note,
+.pay,
+.pay1,
+.price,
+.product,
+.quantity5 {
+  position: absolute;
+  top: 322px;
+  left: 104px;
+  font-weight: 500;
+}
+.color5,
+.note,
+.pay,
+.pay1,
+.price,
+.quantity5 {
+  left: 582px;
+}
+.color5,
+.note,
+.pay,
+.pay1,
+.price {
+  left: 766px;
+}
+.note,
+.pay,
+.pay1,
+.price {
+  left: 939px;
+}
+.note,
+.pay,
+.pay1 {
+  left: 1163px;
+}
+.pay,
+.pay1 {
+  top: 166px;
+  left: 696px;
+  font-size: var(--font-size-11xl);
+}
+.pay1 {
+  top: 758px;
+  left: 675px;
+  font-size: var(--font-size-31xl);
+  font-weight: 900;
+}
+.group-child211 {
+  position: absolute;
+  top: -0.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.group-child212,
+.line-parent4 {
+  position: absolute;
+  top: 91px;
+  left: -2px;
+  width: 1445px;
+  height: 845px;
+}
+.group-child212 {
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 46px;
+}
+.image-2-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child213 {
+  position: absolute;
+  top: 2.5px;
+  left: 564.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 47px;
+}
+.image-3-icon11 {
+  position: absolute;
+  top: 11px;
+  left: 1325px;
+  width: 34.6px;
+  height: 32.5px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.apparel13,
+.bagacc11,
+.hat11,
+.shoes13 {
+  position: absolute;
+  top: 13px;
+  font-weight: 900;
+}
+.apparel13 {
+  left: 158px;
+  cursor: pointer;
+}
+.bagacc11,
+.hat11,
+.shoes13 {
+  left: 265px;
+}
+.bagacc11,
+.hat11 {
+  left: 350px;
+}
+.bagacc11 {
+  left: 411px;
+}
+.image-58-icon9 {
+  position: absolute;
+  top: 10px;
+  left: 1399px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.launches9,
+.library9,
+.promotion9 {
+  position: absolute;
+  top: 13px;
+  left: 642px;
+  font-weight: 600;
+}
+.library9,
+.promotion9 {
+  left: 782px;
+}
+.library9 {
+  left: 936px;
+}
+.image-5-icon11 {
+  position: absolute;
+  top: 10px;
+  left: 1361px;
+  width: 34.1px;
+  height: 32px;
+  object-fit: cover;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 49px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+}
+.image-31-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.new-york-yankees2 {
+  margin: 0;
+}
+.new-york-yankees-container2 {
+  left: 126px;
+  text-align: left;
+}
+.black,
+.div42,
+.div43,
+.new-york-yankees-container2,
+.no {
+  position: absolute;
+  top: 31px;
+  font-weight: 300;
+}
+.div42 {
+  left: 615px;
+  text-align: left;
+}
+.black,
+.div43,
+.no {
+  left: 759px;
+}
+.div43,
+.no {
+  left: 926px;
+}
+.no {
+  left: 1163px;
+}
+.image-31-group {
+  position: absolute;
+  top: 462px;
+  left: 12px;
+  width: 1191px;
+  height: 100px;
+  font-size: var(--font-size-xl);
+}
+.gio-hang {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.account2 {
+  position: absolute;
+  top: 0;
+  left: 422px;
+  font-weight: 900;
+}
+.group-child214 {
+  position: absolute;
+  top: 70.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1001px;
+  height: 1px;
+}
+.account-parent,
+.group-child215 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 1000px;
+  height: 71px;
+}
+.group-child215 {
+  top: 0;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 573.9px;
+  height: 69.9px;
+}
+.user-name2 {
+  position: absolute;
+  top: 21.5px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  text-align: center;
+  display: inline-block;
+  width: 116.6px;
+  height: 26.9px;
+}
+.group-child216,
+.group-child217 {
+  position: absolute;
+  left: 0.9px;
+  width: 573.9px;
+  height: 69.9px;
+}
+.group-child216 {
+  top: 94.2px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child217 {
+  top: 245.7px;
+  background-color: var(--color-black);
+}
+.log-in1 {
+  position: absolute;
+  top: 264.5px;
+  left: 242.1px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 89.7px;
+  height: 32.3px;
+}
+.group-child218,
+.group-child219 {
+  position: absolute;
+  top: 330.9px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 269px;
+  height: 69.9px;
+}
+.group-child219 {
+  left: 305.8px;
+  background-color: var(--color-tomato);
+}
+.password2 {
+  top: 115.7px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  width: 100.4px;
+  height: 26.9px;
+}
+.do-not-have1,
+.password2,
+.save2 {
+  position: absolute;
+  display: inline-block;
+}
+.save2 {
+  top: 197.3px;
+  left: 35.9px;
+  font-size: 12px;
+  font-weight: 200;
+  width: 30.5px;
+  height: 16.1px;
+}
+.do-not-have1 {
+  top: 430.4px;
+  left: 105.8px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 213.4px;
+  height: 21.5px;
+}
+.span {
+  font-size: var(--font-size-xl);
+}
+.create-account1 {
+  position: absolute;
+  top: 430.4px;
+  left: 333.6px;
+  display: inline-block;
+  width: 138.1px;
+  height: 21.5px;
+  font-size: var(--font-size-mini);
+}
+.group-child220 {
+  position: absolute;
+  top: 196.4px;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 17.9px;
+  height: 17.9px;
+}
+.facebook2,
+.google2 {
+  position: absolute;
+  top: 349.7px;
+  left: 59.2px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 151.5px;
+  height: 32.3px;
+}
+.google2 {
+  left: 373.9px;
+  width: 116.6px;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 132px;
+  left: 213px;
+  width: 574.8px;
+  height: 451.9px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+}
+.image-59-icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.dang-nhap1 {
+  width: 1000px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 600px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

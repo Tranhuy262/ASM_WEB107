@@ -1,0 +1,177 @@
+.account3 {
+  position: absolute;
+  top: 0;
+  left: 422px;
+  font-weight: 900;
+}
+.group-child221 {
+  position: absolute;
+  top: 70.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1001px;
+  height: 1px;
+}
+.account-group,
+.group-child222 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 1000px;
+  height: 71px;
+}
+.group-child222 {
+  top: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494.5px;
+  height: 60.3px;
+}
+.user-name3 {
+  position: absolute;
+  top: 18.5px;
+  left: 22.4px;
+  font-weight: 200;
+  text-align: center;
+  display: inline-block;
+  width: 100.4px;
+  height: 23.2px;
+}
+.group-child223 {
+  position: absolute;
+  top: 81.1px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494.5px;
+  height: 60.3px;
+}
+.group-child224,
+.group-child225 {
+  position: absolute;
+  left: 0.8px;
+  width: 494.5px;
+  height: 60.3px;
+}
+.group-child224 {
+  top: 162.3px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child225 {
+  top: 301.3px;
+  background-color: var(--color-black);
+}
+.create1 {
+  position: absolute;
+  top: 317.6px;
+  left: 200.1px;
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 95px;
+  height: 27.8px;
+}
+.group-child226,
+.group-child227 {
+  position: absolute;
+  top: 374.7px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 231.8px;
+  height: 60.3px;
+}
+.group-child227 {
+  left: 263.5px;
+  background-color: var(--color-tomato);
+}
+.enter-the-password1,
+.password3,
+.save3 {
+  position: absolute;
+  top: 99.7px;
+  left: 22.4px;
+  font-weight: 200;
+  display: inline-block;
+  width: 86.5px;
+  height: 23.2px;
+}
+.enter-the-password1,
+.save3 {
+  top: 180px;
+  width: 173.1px;
+}
+.save3 {
+  top: 259.6px;
+  left: 30.9px;
+  font-size: 11px;
+  width: 26.3px;
+  height: 13.9px;
+}
+.group-child228 {
+  position: absolute;
+  top: 258.8px;
+  left: 0.8px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 15.5px;
+  height: 15.5px;
+}
+.facebook3,
+.google3 {
+  position: absolute;
+  top: 391px;
+  left: 51px;
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 130.6px;
+  height: 27.8px;
+}
+.google3 {
+  left: 322.2px;
+  width: 100.4px;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 133px;
+  left: 237px;
+  width: 495.3px;
+  height: 435px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.image-60-icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.dang-ky {
+  width: 1000px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 600px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto ;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

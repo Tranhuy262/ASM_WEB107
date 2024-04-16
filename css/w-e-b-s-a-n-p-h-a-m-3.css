@@ -1,0 +1,858 @@
+.image-31-icon1 {
+  position: absolute;
+  top: 0;
+  left: 69px;
+  width: 585px;
+  height: 585px;
+  object-fit: cover;
+}
+.div30,
+.div31 {
+  position: absolute;
+  top: 232px;
+  left: 0;
+}
+.div31 {
+  top: 352px;
+  left: 721px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.image-46-icon2 {
+  position: absolute;
+  top: 596px;
+  left: 49px;
+  width: 621px;
+  height: 98px;
+  object-fit: cover;
+}
+.image-31-parent {
+  position: absolute;
+  top: 135px;
+  left: 77px;
+  width: 721px;
+  height: 694px;
+  font-family: var(--font-kenia);
+}
+.new-york-yankees1 {
+  margin: 0;
+}
+.div32,
+.new-york-yankees-container1 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--font-size-26xl);
+}
+.div32 {
+  top: 162px;
+  left: 1px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  text-align: center;
+}
+.image-55-icon1 {
+  position: absolute;
+  top: 194px;
+  left: 0;
+  width: 526px;
+  height: 64px;
+  object-fit: cover;
+}
+.group-child123 {
+  position: absolute;
+  top: 257.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 565px;
+  height: 1px;
+}
+.image-47-icon2 {
+  position: absolute;
+  top: 275px;
+  left: 149px;
+  width: 206px;
+  height: 64px;
+  object-fit: cover;
+}
+.color2,
+.size2 {
+  position: absolute;
+  top: 295px;
+  left: 33px;
+  font-weight: 300;
+}
+.size2 {
+  top: 367px;
+}
+.benefit2,
+.free-shipping2,
+.quantity2,
+.transport2 {
+  position: absolute;
+  top: 439px;
+  left: 33px;
+  font-weight: 300;
+}
+.benefit2,
+.free-shipping2,
+.transport2 {
+  top: 511px;
+}
+.free-shipping2,
+.transport2 {
+  top: 679px;
+}
+.free-shipping2 {
+  left: 149px;
+}
+.image-48-icon2,
+.image-49-icon2 {
+  position: absolute;
+  top: 365px;
+  left: 149px;
+  width: 204px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-49-icon2 {
+  top: 429px;
+  left: 182px;
+  width: 138px;
+  height: 44px;
+}
+.accumulate-10000-mileage-container2 {
+  position: absolute;
+  top: 513px;
+  left: 147px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+}
+.buy-now2,
+.group-child124 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-child124 {
+  top: 729px;
+  left: 0;
+  z-index: 50;
+  background-color: var(--color-black);
+  width: 567px;
+  height: 85px;
+}
+.buy-now2 {
+  top: 741px;
+  z-index: 52;
+  left: 176px;
+  font-size: var(--font-size-31xl);
+  font-weight: 900;
+  color: var(--color-white);
+  text-align: center;
+}
+.new-york-yankees-womens-athle-parent {
+  position: absolute;
+  top: 92px;
+  left: 873px;
+  width: 567px;
+  height: 814px;
+  font-size: var(--font-size-xl);
+}
+.group-child125,
+.group-child126,
+.group-child127,
+.group-child129,
+.group-child131,
+.group-child133 {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  border-top: 4px solid var(--color-black);
+  box-sizing: border-box;
+  width: 215px;
+  height: 4px;
+}
+.group-child126,
+.group-child127,
+.group-child129,
+.group-child131,
+.group-child133 {
+  left: 209px;
+}
+.group-child127,
+.group-child129,
+.group-child131,
+.group-child133 {
+  left: 420px;
+}
+.group-child129,
+.group-child131,
+.group-child133 {
+  top: 58px;
+  left: -2px;
+}
+.group-child131,
+.group-child133 {
+  top: 59.5px;
+  left: 210.5px;
+  border-top: 1px solid var(--color-black);
+  width: 212px;
+  height: 1px;
+}
+.group-child133 {
+  left: 421.5px;
+}
+.product-information2,
+.related-products2,
+.special-offer2 {
+  position: absolute;
+  top: 15px;
+  left: 23px;
+  font-size: var(--font-size-lg);
+}
+.related-products2,
+.special-offer2 {
+  top: 16px;
+  left: 266px;
+}
+.related-products2 {
+  top: 15px;
+  left: 467px;
+}
+.material2,
+.origin2 {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  font-weight: 500;
+}
+.origin2 {
+  top: 194px;
+}
+.china2,
+.date-of-manufacture-container2,
+.div33,
+.washing-method2 {
+  position: absolute;
+  top: 282px;
+  left: 0;
+  font-weight: 500;
+}
+.china2,
+.div33,
+.washing-method2 {
+  top: 384px;
+}
+.china2,
+.div33 {
+  top: 194px;
+  left: 207px;
+  font-weight: 300;
+}
+.div33 {
+  top: 293px;
+  left: 211px;
+}
+.can-be-washed-container2,
+.outer-material-60-container2 {
+  position: absolute;
+  top: 384px;
+  left: 207px;
+  font-weight: 300;
+}
+.outer-material-60-container2 {
+  top: 102px;
+}
+.group-child134,
+.group-child135 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.group-child134 {
+  top: 101.5px;
+  left: 155.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 487px;
+}
+.group-child135 {
+  top: 166.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  width: 1111px;
+  height: 1px;
+}
+.group-child136 {
+  position: absolute;
+  top: 253px;
+  left: 0;
+  width: 1110px;
+  height: 2px;
+  object-fit: contain;
+}
+.group-child137 {
+  position: absolute;
+  top: 351.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1111px;
+  height: 1px;
+}
+.line-parent1 {
+  position: absolute;
+  top: 856px;
+  left: 118px;
+  width: 1110px;
+  height: 588px;
+  font-size: var(--font-size-3xl);
+}
+.group-child138 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 46px;
+}
+.image-2-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child139 {
+  position: absolute;
+  top: 2.5px;
+  left: 564.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 47px;
+}
+.image-3-icon8 {
+  position: absolute;
+  top: 11px;
+  left: 1325px;
+  width: 34.6px;
+  height: 32.5px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.apparel10,
+.bagacc8,
+.hat8,
+.shoes10 {
+  position: absolute;
+  top: 13px;
+  font-weight: 900;
+}
+.apparel10 {
+  left: 158px;
+  cursor: pointer;
+}
+.bagacc8,
+.hat8,
+.shoes10 {
+  left: 265px;
+}
+.bagacc8,
+.hat8 {
+  left: 350px;
+}
+.bagacc8 {
+  left: 411px;
+}
+.image-58-icon6 {
+  position: absolute;
+  top: 10px;
+  left: 1399px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.launches6,
+.library6,
+.promotion6 {
+  position: absolute;
+  top: 13px;
+  left: 642px;
+  font-weight: 600;
+}
+.library6,
+.promotion6 {
+  left: 782px;
+}
+.library6 {
+  left: 936px;
+}
+.image-5-icon8 {
+  position: absolute;
+  top: 10px;
+  left: 1361px;
+  width: 34.1px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child140 {
+  position: absolute;
+  top: 1443.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1111px;
+  height: 1px;
+}
+.rectangle-parent12 {
+  top: 0;
+  left: 0;
+  height: 1444px;
+  font-size: var(--font-size-mid);
+}
+.group-child141,
+.mlb4,
+.rectangle-parent12 {
+  position: absolute;
+  width: 1440px;
+}
+.group-child141 {
+  top: 0;
+  left: 2px;
+  background-color: var(--color-gainsboro);
+  height: 61px;
+}
+.mlb4 {
+  top: 12.7px;
+  left: 1px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  font-family: var(--font-jaldi);
+  color: var(--color-black);
+  text-align: center;
+  height: 62.7px;
+}
+.group-child142 {
+  position: absolute;
+  top: 75.4px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1441px;
+  height: 439.9px;
+}
+.group-child143 {
+  position: absolute;
+  top: 443.3px;
+  left: 1283px;
+  width: 61px;
+  height: 34.7px;
+}
+.contact4,
+.useful-links4 {
+  top: 175px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: var(--color-coral);
+  text-align: center;
+  height: 20.3px;
+}
+.useful-links4 {
+  position: absolute;
+  left: 82px;
+  display: inline-block;
+  width: 141px;
+}
+.contact4 {
+  left: 665px;
+  width: 101px;
+}
+.blog4,
+.contact4,
+.openning-hous4,
+.wishlist4 {
+  position: absolute;
+  display: inline-block;
+}
+.openning-hous4 {
+  top: 175px;
+  left: 1123px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: var(--color-coral);
+  text-align: center;
+  width: 174px;
+  height: 20.3px;
+}
+.blog4,
+.wishlist4 {
+  top: 224.2px;
+  left: 46px;
+  font-weight: 500;
+  width: 39px;
+  height: 18.6px;
+}
+.wishlist4 {
+  left: 239px;
+  width: 68px;
+}
+.friday4 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.friday-0900-container4,
+.oder-tracking4,
+.privacy-policy4 {
+  position: absolute;
+  top: 224.2px;
+  left: 1027px;
+  font-weight: 500;
+  display: inline-block;
+  width: 233px;
+  height: 55.9px;
+}
+.oder-tracking4,
+.privacy-policy4 {
+  top: 266.5px;
+  left: 239px;
+  width: 120px;
+  height: 18.6px;
+}
+.oder-tracking4 {
+  top: 308.9px;
+  width: 122px;
+}
+.sevices4 {
+  top: 351.3px;
+  left: 239px;
+  width: 67px;
+  height: 18.6px;
+}
+.about4,
+.contact-us4,
+.doi-can-str-container4,
+.faqs4,
+.sevices4 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.doi-can-str-container4 {
+  top: 224.2px;
+  left: 588px;
+  text-align: center;
+  width: 255px;
+  height: 111.9px;
+}
+.about4,
+.contact-us4,
+.faqs4 {
+  top: 266.5px;
+  left: 46px;
+  width: 45px;
+  height: 18.6px;
+}
+.about4,
+.contact-us4 {
+  top: 308.9px;
+  width: 53px;
+}
+.contact-us4 {
+  top: 351.3px;
+  width: 97px;
+}
+.group-child144 {
+  position: absolute;
+  top: 144px;
+  left: 1px;
+  max-height: 100%;
+  width: 1440px;
+  object-fit: cover;
+}
+.group-child145,
+.group-child146 {
+  position: absolute;
+  top: 408.1px;
+  left: -1px;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 470px;
+  height: 2px;
+}
+.group-child146 {
+  left: 973px;
+}
+.copyright4 {
+  white-space: pre-wrap;
+}
+.mlb-korea4 {
+  color: var(--color-coral);
+}
+.copyright-2019-container4 {
+  position: absolute;
+  top: 474.6px;
+  left: 25px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 479px;
+  height: 20.3px;
+  color: var(--color-black);
+}
+.image-22-icon4 {
+  position: absolute;
+  top: 471.2px;
+  left: 126px;
+  width: 31px;
+  height: 26.3px;
+  object-fit: cover;
+}
+.group-child147 {
+  position: absolute;
+  top: 468.7px;
+  left: 1287px;
+  background-color: var(--color-coral);
+  width: 52px;
+  height: 28.8px;
+}
+.b4 {
+  position: absolute;
+  top: 484px;
+  left: 1291px;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 20.3px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.image-18-icon4,
+.image-19-icon4,
+.image-20-icon4,
+.image-21-icon4 {
+  position: absolute;
+  top: 370.4px;
+  left: 546px;
+  width: 315px;
+  height: 213.6px;
+  object-fit: cover;
+}
+.image-19-icon4,
+.image-20-icon4,
+.image-21-icon4 {
+  top: 219px;
+  left: 603px;
+}
+.image-19-icon4,
+.image-20-icon4 {
+  top: 370.4px;
+  left: 493px;
+  width: 316px;
+}
+.image-20-icon4 {
+  top: 370px;
+  left: 659px;
+  width: 315px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 1671px;
+  left: -2px;
+  width: 1442px;
+  height: 584px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.web-san-pham-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2200px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-101xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.account2 {
+  position: absolute;
+  top: 0;
+  left: 422px;
+  font-weight: 900;
+}
+.group-child214 {
+  position: absolute;
+  top: 70.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1001px;
+  height: 1px;
+}
+.account-parent,
+.group-child215 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 1000px;
+  height: 71px;
+}
+.group-child215 {
+  top: 0;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 573.9px;
+  height: 69.9px;
+}
+.user-name2 {
+  position: absolute;
+  top: 21.5px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  text-align: center;
+  display: inline-block;
+  width: 116.6px;
+  height: 26.9px;
+}
+.group-child216,
+.group-child217 {
+  position: absolute;
+  left: 0.9px;
+  width: 573.9px;
+  height: 69.9px;
+}
+.group-child216 {
+  top: 94.2px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child217 {
+  top: 245.7px;
+  background-color: var(--color-black);
+}
+.log-in1 {
+  position: absolute;
+  top: 264.5px;
+  left: 242.1px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 89.7px;
+  height: 32.3px;
+}
+.group-child218,
+.group-child219 {
+  position: absolute;
+  top: 330.9px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 269px;
+  height: 69.9px;
+}
+.group-child219 {
+  left: 305.8px;
+  background-color: var(--color-tomato);
+}
+.password2 {
+  top: 115.7px;
+  left: 26.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  width: 100.4px;
+  height: 26.9px;
+}
+.do-not-have1,
+.password2,
+.save2 {
+  position: absolute;
+  display: inline-block;
+}
+.save2 {
+  top: 197.3px;
+  left: 35.9px;
+  font-size: 12px;
+  font-weight: 200;
+  width: 30.5px;
+  height: 16.1px;
+}
+.do-not-have1 {
+  top: 430.4px;
+  left: 105.8px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 213.4px;
+  height: 21.5px;
+}
+.span {
+  font-size: var(--font-size-xl);
+}
+.create-account1 {
+  position: absolute;
+  top: 430.4px;
+  left: 333.6px;
+  display: inline-block;
+  width: 138.1px;
+  height: 21.5px;
+  font-size: var(--font-size-mini);
+}
+.group-child220 {
+  position: absolute;
+  top: 196.4px;
+  left: 0.9px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 17.9px;
+  height: 17.9px;
+}
+.facebook2,
+.google2 {
+  position: absolute;
+  top: 349.7px;
+  left: 59.2px;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 151.5px;
+  height: 32.3px;
+}
+.google2 {
+  left: 373.9px;
+  width: 116.6px;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 132px;
+  left: 213px;
+  width: 574.8px;
+  height: 451.9px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+}
+.image-59-icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.dang-nhap1 {
+  width: 1000px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 600px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
